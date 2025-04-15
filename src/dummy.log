@@ -1,0 +1,16 @@
+nohup: ignoring input
+**** Main file ****
+seed from hydra config file is 42
+Using device: cuda:0
+---------- Checking Version of Virtual Environment before starting ---------------
+Torch version: 2.5.1
+CUDA version: 12.4
+Is CUDA enabled? True
+Using device: cuda:0
+current_device Name : NVIDIA GeForce RTX 3070 Ti
+Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+train nsl-kdd with llm
+Preprocessing dataset at ../nsl-kdd/NSL-KDD/
+**** End ****
